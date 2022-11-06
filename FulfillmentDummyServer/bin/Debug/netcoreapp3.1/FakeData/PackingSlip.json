@@ -1,0 +1,7 @@
+﻿{
+  "payload": {
+    "purchaseOrderNumber": "UvgABdBjQ",
+    "content": "base64 encoded string",
+    "contentType": "application/pdf"
+  }
+}
