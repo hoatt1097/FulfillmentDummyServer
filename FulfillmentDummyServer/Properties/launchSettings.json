@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "orders/getOrders",
+      "launchUrl": "vendor/directFulfillment/orders/v1/purchaseOrders",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "FulfillmentDummyServer": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "orders/getOrders",
+      "launchUrl": "vendor/directFulfillment/orders/v1/purchaseOrders",
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
