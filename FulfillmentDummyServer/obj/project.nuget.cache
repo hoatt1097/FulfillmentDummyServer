@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ze2DTyMhc4W3X3r25oFDBUSytQACkVt0bfC0ihlVC2Af2tAX5IhOrqBlKy++EDNwbLxTASCFTFsksi3UQVtSww==",
+  "dgSpecHash": "8aSsLLd3gzqz4FyFkHA0UI5zgO2AOMVrnpRtqLntPBPeUPyGaWmAsGe9/nfACMF9DbAm5v07qH1Y9jUPSfmxcA==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\FulfillmentDummyServer\\FulfillmentDummyServer\\FulfillmentDummyServer.csproj",
+  "projectFilePath": "D:\\HipTech\\2DScanner\\Sources\\2DScanner_Dummy\\FulfillmentDummyServer\\FulfillmentDummyServer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thienhoa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\thuyq\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
